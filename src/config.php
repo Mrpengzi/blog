@@ -1,12 +1,12 @@
 <?php
 //mysql database address
-define('DB_HOST','127.0.0.1');
+define('DB_HOST','119.29.174.176');
 //mysql database user
 define('DB_USER','admin');
 //database password
 define('DB_PASSWD','');
 //database name
-define('DB_NAME','test');
+define('DB_NAME','blog');
 //database prefix
 define('DB_PREFIX','tb_');
 //auth key
